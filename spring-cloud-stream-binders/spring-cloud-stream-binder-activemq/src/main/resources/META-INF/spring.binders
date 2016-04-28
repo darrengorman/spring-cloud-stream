@@ -1,0 +1,2 @@
+activemq:\
+org.springframework.cloud.stream.binders.activemq.config.ActiveMqMessageChannelBinderConfiguration
